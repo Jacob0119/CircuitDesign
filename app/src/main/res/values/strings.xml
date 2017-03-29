@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CircuitDesign</string>
+    <string name="selected_count">%d$s selected</string>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="GATE">
+        <menu>
+        <item
+            android:id="@+id/and"
+            android:icon="@drawable/and"
+            android:title="AND" />
+        <item
+            android:id="@+id/or"
+            android:icon="@drawable/or"
+            android:title="OR" />
+        <item
+            android:id="@+id/not"
+            android:icon="@drawable/not"
+            android:title="NOT" />
+        </menu>
+    </item>
+
+
+    <item android:title="INPUT">
+        <menu>
+            <item android:id="@+id/inputZero"
+                android:icon="@drawable/zero_nav"
+                android:title="ZERO" />
+            <item
+                android:id="@+id/inputOne"
+                android:icon="@drawable/one_nav"
+                android:title="ONE" />
+
+            <item android:id="@+id/inputClock"
+                android:icon="@drawable/clock_nav"
+                android:title="CLOCK" />
+        </menu>
+
+    </item>
+
+    <item android:title="OUTPUT">
+        <menu>
+            <item
+                android:id="@+id/output"
+                android:icon="@drawable/light_off"
+                android:title="OUTPUT" />
+
+        </menu>
+
+    </item>
+
+</menu>

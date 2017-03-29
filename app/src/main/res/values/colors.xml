@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorpirmaryBasic">#80cbc4</color>
+    <color name="colorPrimary">#4db6ac</color>
+    <color name="colorPrimaryDark">#26a69a</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="menutext">#696969</color>
+    <drawable name="purple">#6A1B9A</drawable>
+    <drawable name="blue">#1565C0</drawable>
+    <drawable name="activated">#6A1B9A</drawable>
+   <drawable name="normal">#ffffff</drawable>
+    <color name="primary">#009688</color>
+    <color name="primary_dark">#00796B</color>
+    <color name="primary_light">#B2DFDB</color>
+    <color name="accent">#FF4081</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+</resources>
